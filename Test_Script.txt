@@ -1,0 +1,15 @@
+Stimulus1initial.png Stimulus1response.png
+Stimulus2initial.png Stimulus2response.png
+Stimulus3initial.png Stimulus3response.png
+Stimulus4initial.png Stimulus4response.png
+Stimulus5initial.png Stimulus5response.png
+Stimulus6initial.png Stimulus6response.png
+Stimulus7initial.png Stimulus7response.png
+Stimulus8initial.png Stimulus8response.png
+Stimulus9initial.png Stimulus9response.png
+Stimulus10initial.png Stimulus10response.png
+Stimulus11initial.png Stimulus11response.png
+Stimulus12initial.png Stimulus12response.png
+Stimulus13initial.png Stimulus13response.png
+Stimulus14initial.png Stimulus14response.png
+Stimulus15initial.png Stimulus15response.png
